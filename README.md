@@ -37,10 +37,6 @@ For issues and features request, use **Github** or access the [support page](htt
 
 <br />
 
-![Flask Dashboard Light Pro - App Screen.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-now-ui-pro-screen-3.png)
-
-<br />
-
 ## Resources
 
 1. [Flask Documentation](http://flask.pocoo.org/docs/)
