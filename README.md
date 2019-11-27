@@ -1,19 +1,18 @@
 # [Flask Dashboard Now UI PRO](https://appseed.us/admin-dashboards/flask-dashboard-now-ui-pro)
 
-**Commercial product** - Flask **Dashboard** coded on top of **Now uI Design Pro** crafted by Creative-Tim.
+**Commercial product** - Flask **Dashboard** coded on top of **Now uI Design Pro** crafted by Creative-Tim. **Features**:
+
+- SQLite, PostgreSQL
+- SQLAlchemy ORM, Alembic (for db schema migration)
+- Modular design with **Blueprints**
+- Session-Based authentication (via **flask_login**)
+- Forms validation
+- Deployment scripts: Docker, Gunicorn
+- **24/7 LIVE Support**
 
 <br />
 
 ![Flask Dashboard Now UI Pro - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-now-ui-pro-intro.gif)
-
-<br />
-
-## Features
-
-- SQLite database
-- Login, Register
-- Static Build `python ./static.py`. The static build goes to `app/build` directory 
-- FTP Deploy script. **Info**: this `require node.js` and the edit of `deploy.js` to add FTP server credentials. 
 
 <br />
 
