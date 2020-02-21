@@ -21,7 +21,7 @@
 ## Dashboard Links
 
 - [Flask Dashboard NowUI PRO](https://appseed.us/admin-dashboards/flask-dashboard-now-ui-pro) - Product page
-- [Flask Dashboard NowUI PRO](https://github.com/app-generator/flask-dashboard-now-ui-pro) - The public repository, used for bug tracking and licensing information
+- [Flask Dashboard NowUI PRO](https://docs.appseed.us/admin-dashboards/flask-dashboard-now-ui-pro/) - Documentation
 - [Flask Dashboard NowUI PRO](https://flask-dashboard-now-ui-pro.appseed.us/) - LIVE demo
 
 <br />
